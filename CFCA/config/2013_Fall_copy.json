@@ -1,0 +1,46 @@
+{
+	P_LANGUAGE:"Java",
+	folder:"/Users/tim.daley/Documents/CFCA/2013_Fall_copy",
+	sourcefolder:"Scanned",
+	music:[
+		{
+			name:"A Glee-full Christmas",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Celebrate The Wonder",
+			format:"copy",
+			landscape: false,
+			duplex: false,
+			start:5,
+			end:17
+		},
+		{
+			name:"Christmas Angels",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"What Christmas Means To Me",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Noel",
+			format:"book",
+			landscape: false,
+			duplex: true,
+			book:[
+				{
+					name:"A",
+					start:3,
+					end:5
+				}
+			]
+		}
+	]
+}

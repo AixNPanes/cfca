@@ -1,0 +1,67 @@
+{
+	P_LANGUAGE:"Java",
+	folder:"/Users/tim.daley/Documents/CFCA/2015_Spring",
+	sourcefolder:"Scanned",
+	music:[
+		{
+			name:"A Tribute to Queen",
+			format:"octavo",
+			landscape: true,
+			duplex: true
+		},
+		{
+			name:"A Very 70's Prom Night!",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Disco Medley - Part II",
+			format:"copy",
+			landscape: true,
+			duplex: true
+		},
+		{
+			name:"Disco Medley - Part III",
+			format:"copy",
+			landscape: true,
+			duplex: true
+		},
+		{
+			name:"I Want You Back - ABC",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"I Write The Songs",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Mamma Mia!",
+			format:"octavo",
+			landscape: true,
+			duplex: true
+		},
+		{
+			name:"September",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Sing a Song",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"The Winner Takes It All",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		}
+	]
+}

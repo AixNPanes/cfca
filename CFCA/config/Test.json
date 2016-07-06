@@ -1,0 +1,109 @@
+{
+	P_LANGUAGE:"Java",
+	folder:"/Users/tim.daley/git/CFCA/CFCA/Test",
+	sourcefolder:"PDF",
+	music:[
+		{
+			name:"All I Want For Christmas Is My Two Front Teeth",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Angels, From the Realms of Glory",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Believe",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Christmas Time is Here",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Christmas Toys on Parade",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Do You Hear What I Hear?",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Grown-Up Christmas List",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"I Want A Hippopotamus For Christmas",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"It's Beginning to Look Like Christmas",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Jingle All the Way Medley",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Joy to the World!",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Let There Be Peace On Earth",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Little Drummer Boy, the",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Little Saint Nick",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"O Come, All Ye Faithful",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Santa Claus Is Comin' to Town",
+			format:"copy",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"You're A Mean one, Mr. Grinch",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	P_LANGUAGE:"Java",
+	folder:"/Users/tim.daley/Documents/CFCA/2016_Summer",
+	sourcefolder:"Scanned",
+	music:[
+		{
+			name:"Another Op'nin, Another Show",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Blow, Gabriel, Blow",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Children Will Listen",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Fascinating Rhythm",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Night and Day",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Something's Coming - Tonight",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Summertime",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Sunday",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"Swingin' with the Gershwins",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+	]
+}

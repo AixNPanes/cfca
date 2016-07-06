@@ -1,0 +1,87 @@
+{
+	P_LANGUAGE:"Java",
+	folder:"/Users/tim.daley/Documents/CFCA/Kempke/2015_Winter_Kempke",
+	sourcefolder:"Scanned",
+	music:[
+		{
+			name:"Freedom",
+			format:"book",
+			landscape: true,
+			pageOffset: 2,
+			resolutionDPI: 300,
+			duplex: true,
+			book:[
+				{
+					name:"Freedom!",
+					start:3,
+					end:13
+				},
+				{
+					name:"Star-Spangled Banner, The",
+					start:14,
+					end:28
+				},
+				{
+					name:"America, The Beautiful",
+					start:29,
+					end:38
+				},
+				{
+					name:"Let Freedom Ring!",
+					start:39,
+					end:52
+				},
+				{
+					name:"Ancient Words",
+					start:53,
+					end:61
+				},
+				{
+					name:"Our Only Hope",
+					start:62,
+					end:72
+				},
+			]
+		},
+		{
+			name:"KingdomPowerGlory",
+			format:"book",
+			landscape: true,
+			pageOffset: 2,
+			resolutionDPI: 300,
+			duplex: true,
+			book:[
+				{
+					name:"Christ the Lord Is Risen Today Prelude",
+					start:3,
+					end:15
+				},
+				{
+					name:"Cross That He Carried, The",
+					start:16,
+					end:27
+				},
+				{
+					name:"Christ Is Risen",
+					start:28,
+					end:41
+				},
+				{
+					name:"God With Us",
+					start:42,
+					end:57
+				},
+				{
+					name:"Sanctuary/Total Praise",
+					start:58,
+					end:71
+				},
+				{
+					name:"Thine Is The Kingdom",
+					start:73,
+					end:88
+				},
+			]
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	P_LANGUAGE:"Java",
+	folder:"/Users/tim.daley/Documents/workspace/cfca/CFCA",
+	sourcefolder:"PDF",
+	music:[
+		{
+			name:"Let There Be Joy",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"A Big Band Christmas",
+			format:"copy",
+			landscape: false,
+			duplex: false,
+			start:95
+		},
+		{
+			name:"Home for the Holidays Medley",
+			format:"copy",
+			landscape: false,
+			duplex: false,
+			start:51
+		},
+		{
+			name:"O Holy Night",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"We Need a Little Christmas",
+			format:"copy",
+			landscape: false,
+			duplex: false,
+			start:24
+		},
+		{
+			name:"White Christmas",
+			format:"octavo",
+			landscape: false,
+			duplex: true
+		},
+		{
+			name:"FaLaLaLaLaLa",
+			format:"book",
+			landscape: false,
+			duplex: true,
+			book:[
+				{
+					name:"A",
+					start:3,
+					end:5
+				}
+			]
+		}
+	]
+}
